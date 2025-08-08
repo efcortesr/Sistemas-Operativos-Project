@@ -99,13 +99,13 @@ Nota: puede crear bucles según el programa.
 
 No hace nada.
 
-    **Ejemplo**
-    ADD AX, BX
+ **Ejemplo**
+ ADD AX, BX
     
-    INC AX
+   INC AX
     
-    SUB CX, 1
+   SUB CX, 1
     
-    MUL AX, 2
+   MUL AX, 2
     
-    NOP
+   NOP
