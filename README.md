@@ -2,6 +2,10 @@
 Simulador por consola que modela el cambio de contexto entre procesos con un planificador Round‑Robin y quantum individual por proceso.
 Cada proceso tiene registros simulados (AX, BX, CX), PC (program counter), estado (Listo, Ejecutando, Terminado) y un conjunto de instrucciones leídas desde un archivo por PID.
 
+# Link de la presentación: 
+
+https://www.canva.com/design/DAGvhKmUkjw/FtMacrn_NLTjKT_sC9L_AQ/edit?utm_content=DAGvhKmUkjw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Características
 * Planificación Round‑Robin usando una cola de listos (FIFO).
 
